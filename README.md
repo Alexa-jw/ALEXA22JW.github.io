@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## ALEXA Project Introduction
 
-You can use the [editor on GitHub](https://github.com/Alexa-jw/ALEXA22JW.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+ALEXA is telementoring project aim to providing prediction of medical instructions from videos of surgical procedures for the mentee system.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
