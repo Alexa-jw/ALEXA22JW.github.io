@@ -1,4 +1,4 @@
-## ALEXA Project Introduction
+## ALEXA Project
 
 ALEXA is telementoring project aim to providing prediction of medical instructions from videos of surgical procedures for the mentee system.
 
